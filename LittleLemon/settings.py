@@ -139,3 +139,6 @@ REST_FRAMEWORK = {
         'user': '5/minute',
     }
 }
+DJOSER = {
+    "USER_ID_FILDE": "username"
+}
